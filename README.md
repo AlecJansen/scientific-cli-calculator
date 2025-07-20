@@ -30,7 +30,7 @@ gcc calculator_cli.c -o calculator_cli -lm
 
 ## 👥 Authors
 
-Developed at Purdue University by:
+Developed in 2018 at Purdue University by:
 
 * Alec Jansen
 * Charlie Lu
