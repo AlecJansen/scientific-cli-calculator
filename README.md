@@ -41,5 +41,3 @@ Developed at Purdue University by:
 This project is currently unlicensed. Feel free to modify and share as needed.
 
 ---
-
-*For a GTK-based graphical version, see the `calculator_gui` project.*
