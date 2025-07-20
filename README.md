@@ -2,7 +2,7 @@
 
 A terminal-based scientific calculator written in C. Supports basic arithmetic and scientific functions through a simple menu interface.
 
-## ✨ Features
+## 🧮 Features
 
 * Addition, Subtraction, Multiplication, Division
 * Power and Square Root
